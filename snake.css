@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Milkshake';
+    src: url('./Milkshake.ttf');
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Milkshake';
+    text-align: center;
+}
